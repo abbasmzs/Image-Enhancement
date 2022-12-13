@@ -1,4 +1,3 @@
-//////// Abbas-Mazrouei-Sebdani [abbas.mzs]
 // This must be defnined, in order to use arma::spsolve in the code with SuperLU
 #define ARMA_USE_SUPERLU
 
