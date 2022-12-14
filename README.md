@@ -1,5 +1,7 @@
 # Image-Enhancement
 C++ implementation of several image contrast enhancement techniques for clinical and normal images.
+<img src="LDR.tiff">
+
 ## Techniques
 * AINDANE
   * [Adaptive and integrated neighborhood-dependent approach for nonlinear enhancement of color images](https://www.spiedigitallibrary.org/journals/Journal-of-Electronic-Imaging/volume-14/issue-4/043006/Adaptive-and-integrated-neighborhood-dependent-approach-for-nonlinear-enhancement-of/10.1117/1.2136903.short?SSO=1) (2005), Tao et al.
