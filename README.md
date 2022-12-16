@@ -1,6 +1,6 @@
 # Image-Enhancement
 C++ implementation of several image contrast enhancement techniques for clinical and normal images.
-<img src="LDR.tiff">
+<img src="LDR-TW-RAW.png">
 
 ## Techniques
 * AINDANE
